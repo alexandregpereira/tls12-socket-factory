@@ -13,10 +13,10 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 ext {
-    bintrayRepo = 'Android'
+    bintrayRepo = 'android'
     bintrayName = 'tls12socketfactory'
 
-    publishedGroupId = 'br.com.uoledtech'
+    publishedGroupId = 'br.com.bano'
     libraryName = 'TLS 12 Socket Factory'
     artifact = 'tls12socketfactory'
 
